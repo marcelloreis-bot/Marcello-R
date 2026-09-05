@@ -1,4 +1,4 @@
-# Marcello-R
+# marcelloreis-bot
 Estudante de Desenvolvimento de Sistemas.
 Ícones de tecnologias (Python, HTML, Java)
 Formado em Química - Faculdades Oswaldo Cruz
